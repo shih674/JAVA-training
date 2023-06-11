@@ -24,6 +24,10 @@ public class lesson1{
         System.out.println('a');
         // 字串：雙引號。可包含０到多個字元
         System.out.println("哈囉你好");
+        
+        //變數
+        int x = 3;
+        System.out.println(x); 
     }
 }
 
