@@ -26,3 +26,4 @@ public class lesson1{
         System.out.println("哈囉你好");
     }
 }
+
